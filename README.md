@@ -6,4 +6,5 @@
 # Create a new branch is quick
 # test conflicts 2
 # test conflicts 1
-# Tag test
+# Tag test OK
+
