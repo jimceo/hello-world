@@ -5,3 +5,4 @@
 # Git is free software distributed under the GPL
 # Create a new branch is quick
 # test conflicts 2
+# test conflicts 1
